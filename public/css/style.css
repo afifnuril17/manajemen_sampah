@@ -1,0 +1,21 @@
+.header{
+    background-color: rgb(4, 4, 136);
+    height: 50px;
+    color: white;
+    margin-bottom: 50px;
+}
+#tampil{
+    background-color: rgb(180, 179, 179);
+}
+.card{
+    margin-top: 20px;
+}
+#kategori{
+    color: grey;
+}
+#btn_hapus{
+    color: red;
+}
+form{
+    height: 1000px;
+}
